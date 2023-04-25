@@ -56,15 +56,15 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Challenge 1\Scripts\PlayerControllerX.cs" />
-    <Compile Include="Assets\Challenge 1\Scripts\FollowPlayerX.cs" />
-    <Compile Include="Assets\Challenge 1\Scripts\GiroHelice.cs" />
-    <Compile Include="Assets\Course Library\Script\Player1Controller.cs" />
-    <Compile Include="Assets\Course Library\Script\CameraPlayer1.cs" />
-    <Compile Include="Assets\Course Library\Script\Player2Controler.cs" />
-    <Compile Include="Assets\Course Library\Script\NPCBuss.cs" />
-    <Compile Include="Assets\Course Library\Script\NPC_Util\NPCBussines.cs" />
     <Compile Include="Assets\Course Library\Script\NPCCar.cs" />
+    <Compile Include="Assets\Course Library\Script\CameraPlayer1.cs" />
+    <Compile Include="Assets\Course Library\Script\Player1Controller.cs" />
+    <Compile Include="Assets\Course Library\Script\NPC_Util\NPCBussines.cs" />
+    <Compile Include="Assets\Course Library\Script\NPCBuss.cs" />
+    <Compile Include="Assets\Challenge 1\Scripts\GiroHelice.cs" />
+    <Compile Include="Assets\Challenge 1\Scripts\PlayerControllerX.cs" />
+    <Compile Include="Assets\Course Library\Script\Player2Controler.cs" />
+    <Compile Include="Assets\Challenge 1\Scripts\FollowPlayerX.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
